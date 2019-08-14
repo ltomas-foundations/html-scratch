@@ -1,0 +1,10 @@
+nav{
+    background-color:rgb(214, 189, 214);
+    text-align: center;
+    padding: 40px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-option{
+    padding:50px;
+}
